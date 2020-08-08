@@ -1,4 +1,4 @@
 # Кылычева Айжан
 Мои домашки
 
-[lesson-12]{file:///C:/Users/user/Documents/My%20projects/Github/12-lesson/index.html}
+[lesson-12](https://kylycheva14.github.io/12-lesson/My first side on bootstrap)
